@@ -3,6 +3,9 @@
 ## 📄 Research Paper
 This repository contains my published research paper on blockchain-based forensic evidence management.
 
+## 📄 Download Paper
+[Click here to view the paper](Forensic-blockchain-paper.pdf)
+
 ## 👩‍💻 Authors
 - V. Akhila
 - Bhavani Shankar
